@@ -4,7 +4,8 @@
 
 ## 學生：蘇羿璇  Yi-Hsuan Su
 ## 指導教授：黃承龍  Dr. Cheng-Lung Huang
-## 國立高雄科技大學資訊管理系碩士班 A Thesis Submitted to Department of Information Management National Kaohsiung University of Science and Technology In Partial Fulfillment of the Requirements For the Degree of Master In Information Management
+## 國立高雄科技大學資訊管理系碩士班 
+A Thesis Submitted to Department of Information Management National Kaohsiung University of Science and Technology In Partial Fulfillment of the Requirements For the Degree of Master In Information Management
 
 ### 摘要 | Abstract
 
