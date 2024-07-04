@@ -2,6 +2,7 @@
 # Research-on-Traffic-Sign-Recognition-in-Taiwan-Detection-Based-on-YOLOv8-and-RT-DETR
 # Research on Traffic Sign Recognition in Taiwan
 
+## 論文連結：https://hdl.handle.net/11296/3zddcf
 ## 學生：蘇羿璇  Yi-Hsuan Su
 ## 指導教授：黃承龍  Dr. Cheng-Lung Huang
 ## 國立高雄科技大學資訊管理系碩士班 
